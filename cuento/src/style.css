@@ -1,0 +1,36 @@
+.titulo {
+    color:#fff;
+    opacity:100%;
+    font-size: 18px;
+    font-family:'roboto';
+    font-weight:800;
+    line-height:normal;
+    text-align: center;
+    text-decoration:dashed;
+    padding-top:0%;
+    padding-left: 0%;
+    padding-bottom: 0%;
+    padding-right: 0%;
+    margin-top: 10%;
+    margin-left: 5% ;
+    margin-bottom: 100px;
+    margin-right:8%;
+    background-color:rgb(206, 56, 186);
+    color:rgb(5, 5, 5);
+    border: 3px solid rgb(252, 98, 162);
+    border-radius:150300px;
+    }
+
+    .parrafo {
+        width: 50%;
+        background-color:rgb(207, 113, 195);
+        color: rgb(68, 2, 0);
+        padding: 15px;
+        float: left;
+      }
+
+    .imagen1 {
+        float: center;
+        height: 200px;
+        width: 500px;
+      }
